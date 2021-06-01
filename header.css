@@ -1,0 +1,75 @@
+.fnavbar
+{
+    background-color: orange;
+    margin-top: -7px;
+    height: 22px;
+    text-decoration: none;
+    text-transform: capitalize;
+    display: flex;
+    justify-content:flex-end ;
+    text-align:center ;
+}
+.fnavbar > a
+{
+    text-decoration: none;
+    align-self: center;
+    padding-left: 7.5px;
+    padding-right: 7.5px;
+    border-radius: 5px;
+}
+.a1nav:hover
+{
+    background-color: white;
+    color: blue;
+    text-decoration-line: underline;
+}
+.active
+{
+background-color: white;
+color: blue;
+}
+
+.snavbar
+{
+    display: grid;
+    grid-template-columns:15% 30% 60%;
+    height: 100px;
+     margin-top:0px;
+   /* box-shadow: 0px 3px 3px black ;*/
+    box-shadow: 0 8px 6px -5px orange;
+    
+}
+#logo
+{
+    grid-column-start: 1; 
+    grid-column-end: 2;
+    border-radius: 5px;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+#headh1
+{   
+    grid-column-start: 2; 
+    grid-column-end: 3;
+}
+#nav2head
+{
+    grid-column-start:3 ; 
+    grid-column-end:4 ;
+    align-self: center;
+    display: flex;
+
+}
+#nav2head > a
+{   
+    padding-left: 20px;
+    font-size: 20px;
+    text-decoration: none;
+}
+
+.a2nav:hover
+{   
+    color: blue;
+    text-decoration: underline;
+}
+
