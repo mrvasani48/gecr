@@ -1,0 +1,9 @@
+.footer
+{
+    display: grid;
+    grid-template-columns: 90% 10%;
+    grid-column-gap: 10px; 
+    background-color: orange;  
+    grid-template-rows: 90% 10%;
+    grid-row-gap: 10px; 
+}  

@@ -11,3 +11,15 @@ http://www.gecrj.cteguj.in/uploads/8896/logo.JPG
 
 Image slider
 https://codereview.stackexchange.com/questions/215967/javascript-change-image-every-three-seconds
+
+
+scrolling text 
+
+<marquee behavior="scroll" direction="up" scrollamount="7"> 
+            Here is some scrolling text... going up!
+</marquee>
+
+
+generate map in embded
+
+https://www.embedmymap.com/
