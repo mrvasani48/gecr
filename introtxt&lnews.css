@@ -17,10 +17,11 @@
 }
 .lnews
 {
-    background-color: orange;
+    background-color: #003975;
     margin-top: 30px;
     margin-bottom: 30px;
     border-radius: 10px;
+    color:white;
 }
 #lnewshead
 {
@@ -28,7 +29,7 @@
     font-weight: 400;
     font-size: 20px;
     text-align: center;
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid white;
 }
 #lnewspara
 {
@@ -43,4 +44,5 @@
 .news1,.news2,.news3
 {
     text-decoration:none ;
+    color:white;
 }

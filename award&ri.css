@@ -20,7 +20,7 @@
    text-transform: capitalize;
     font-weight: bold;
     font-size: 30px;
-    color: rgba(0, 0, 255, 0.979);
+    color: #003975;
     margin-top: 6px;
     text-decoration: none;
 }
@@ -37,7 +37,7 @@
    grid-row-end: 4;
    text-align: center;
    text-transform: capitalize;
-   color: rgb(69, 69, 230);
+   color: #003975;
    font-family: Segoe UI;
    font-size: 16px;
    margin-bottom: 0px; 
@@ -54,27 +54,31 @@
 {
    margin-top: 30px;
    margin-bottom: 30px;
-   box-shadow: 0px 0px 15px orange;
+   box-shadow: 0px 0px 15px #003975;
+   background-color:#003975 ;
    
 }
 
 .rigecrhead
 {
    padding:20px ;
-   color: blue;
-   font-size: 19px;
+   color: white;
+   font-size: 25px;
 }
 .rige
 {
    padding:0px 20px 0px 20px;   
+   color: white;
+  
 }
 .rige >a
 {
-   color: #007bff;
+   color:white;
    text-transform: capitalize;
    text-decoration:none;
    line-height: 1.2;
    font-weight: 400;
    font-size: 20px;
+   
    align-items: stretch;  
 }
