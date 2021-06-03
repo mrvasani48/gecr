@@ -1,6 +1,6 @@
 .fnavbar
 {
-    background-color: orange;
+    background-color: #003975;
     margin-top: -7px;
     height: 22px;
     text-decoration: none;
@@ -16,17 +16,18 @@
     padding-left: 7.5px;
     padding-right: 7.5px;
     border-radius: 5px;
+    color:white;
 }
 .a1nav:hover
 {
-    background-color: white;
-    color: blue;
+    
+    color:orange;
     text-decoration-line: underline;
 }
 .active
 {
-background-color: white;
-color: blue;
+
+color: orange;
 }
 
 .snavbar
@@ -36,7 +37,7 @@ color: blue;
     height: 100px;
      margin-top:0px;
    /* box-shadow: 0px 3px 3px black ;*/
-    box-shadow: 0 8px 6px -5px orange;
+    box-shadow: 0 8px 6px -5px #003975;
     
 }
 #logo
@@ -51,6 +52,7 @@ color: blue;
 {   
     grid-column-start: 2; 
     grid-column-end: 3;
+    color: #003975;
 }
 #nav2head
 {
@@ -65,6 +67,7 @@ color: blue;
     padding-left: 20px;
     font-size: 20px;
     text-decoration: none;
+    color:#003975 ;
 }
 
 .a2nav:hover

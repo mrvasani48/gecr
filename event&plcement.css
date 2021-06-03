@@ -10,14 +10,15 @@
 }
 .event
 {
-    border: 1px solid gray;
+    border-radius: 5px;
     grid-column-start: 1;
     grid-column-end: 2;
+    background-color: #003975;
 }
 .placement
 {
     background-color: honeydew;
-    box-shadow: 0px 0px 15px orange;
+    box-shadow: 0px 0px 15px #003975;
     grid-column-start: 2;
     grid-column-end: 3;
 }
@@ -27,7 +28,7 @@
     padding-right: 10px;
     text-align: center;
     text-transform: capitalize;
-    color: blue;
+    color:#003975;
 }
 
 .mplacetext
@@ -57,7 +58,7 @@
 {   
     margin-top: 7px;
     text-align:center;
-    color: blue;
+    color: white;
 }
 .headevent
 {
@@ -106,6 +107,11 @@
     font-weight: 400;
     font-size: 20px;
     align-items: stretch;  
+    color: white;
+}
+.evv1anc:hover
+{
+    text-decoration: underline;
 }
 
 .event2

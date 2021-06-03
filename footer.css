@@ -1,9 +1,140 @@
 .footer
 {
     display: grid;
-    grid-template-columns: 90% 10%;
+    grid-template-columns: 70% 27%;
     grid-column-gap: 10px; 
-    background-color: orange;  
+    background-color: #003975;  
     grid-template-rows: 90% 10%;
     grid-row-gap: 10px; 
+    max-width: 1324px;
 }  
+.foot1
+{
+    grid-column-start: 1;   
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+
+}
+.foot2
+{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    margin-top: 40px;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+.foot3
+{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    color: white;
+    text-align: center;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: -20px;
+}
+
+.foot1
+{
+    display: grid;
+    grid-template-rows: 30% 70%;
+    grid-row-gap: 20px;
+}
+.foot1div1
+{
+    grid-row-start:1;
+    grid-row-end: 2;
+    display: grid;
+    grid-template-columns: 20% 80% ; 
+    grid-column-gap: 20px;
+}
+.foot1div1logo
+{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    margin: 20px;
+    border-radius: 7px;
+    margin-right: 0px;
+}
+.foot1div1head
+{   
+    margin-left: -35px;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    color:white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    
+}
+
+
+.foot1div2
+{
+    grid-row-start:2;
+    grid-row-end: 3;
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-column-gap: 10px; 
+}
+.locationdiv
+{
+    grid-column-start: 1;
+    grid-column-end: 2;
+    margin-top: 30px;
+    color: white;
+  /*  text-align: justify;
+ /* text-justify: inter-word;*/
+  font-size: 20px;
+  margin-left: 30px;
+  margin-bottom: 0px;
+}
+
+.contactdiv
+{
+    grid-column-start: 2;
+    grid-column-end: 3;
+    font-size: 20px;
+    margin-left: 10px;
+    color: white;
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+
+.contactdiva
+{
+    text-decoration: none;
+    color: white;
+    cursor: move;
+    
+}
+.contactdiva:hover
+{
+    text-decoration: underline;
+}
+.linkdiv
+{
+    grid-column-start: 3;
+    grid-column-end: 4;
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+.linkdiva
+{
+    color: white;
+    line-height: 1.2;
+    font-size: 20px;
+    text-decoration: none;
+    line-height: 31px;
+}
+.linkdiva:hover
+{
+    text-decoration: underline;
+}
