@@ -23,3 +23,6 @@ scrolling text
 generate map in embded
 
 https://www.embedmymap.com/
+
+Image changes in 5 second 
+https://www.w3schools.com/w3css/w3css_slideshow.asp
