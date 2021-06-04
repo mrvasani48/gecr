@@ -1,0 +1,32 @@
+.cuhead
+{
+    margin-left:110px;
+    font-size: 40px;
+    color: #003975;
+}
+.vip
+{
+    margin-left:110px;
+    margin-bottom: 20px;
+    border: 2px solid #003975 ;
+    max-width: 820px;
+    border-radius: 5px;
+}
+.viph5
+{
+    padding-left: 30px;
+    background-color: #003975;
+    color: white;
+    margin-top:0px ;
+    font-size: 18px;
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+}
+.vipli
+{
+   list-style: none;
+   font-weight: 400;
+   line-height: 1.5;
+   font-size: 20px;
+   color: #212529;
+}
