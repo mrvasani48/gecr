@@ -33,7 +33,7 @@ color: orange;
 .snavbar
 {
     display: grid;
-    grid-template-columns:15% 30% 60%;
+    grid-template-columns:12.5% 28.5% 59%;
     height: 100px;
      margin-top:0px;
    /* box-shadow: 0px 3px 3px black ;*/
