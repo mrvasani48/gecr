@@ -20,7 +20,8 @@
 }
 
 .dropdown-content a {
-  color: black;
+  background-color:#003975;
+  color: white;
   padding: 12px 12px;
   text-decoration: none;
   display: block;
@@ -30,11 +31,10 @@
 }
 
 .dropdown-content a:hover {
-  background-color:#003975;
-   color: white;
-   width: 100px;
-   margin-left: 10px;
-   padding-right:5px ;
+  background-color:white;
+   color: #003975;
+ 
+  
 }
 
 .dropdown:hover .dropdown-content {
