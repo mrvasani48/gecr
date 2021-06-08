@@ -1,0 +1,43 @@
+.aushead
+{
+    text-align: center;
+    text-transform: capitalize;
+   
+}
+.maindivasc
+{
+    background-color: #003975;
+   
+}
+
+.acl
+{
+   color: white;
+   text-transform: capitalize; 
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-top: 30px;
+}
+
+.actext
+{
+    color: white;
+    font-size: 25px;
+    padding: 30px;
+    text-transform: capitalize;
+    
+}
+
+.acla
+{
+    color: white;
+    font-size: 25px;
+    margin: 30px;
+    text-transform: capitalize;
+    text-decoration: none;
+    padding-bottom: 30px;
+}
+.acla:hover
+{
+    text-decoration: underline;
+}

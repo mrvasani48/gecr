@@ -17,7 +17,7 @@
 }
 .placement
 {
-    background-color: white;
+    background-color: white ;
     box-shadow: 0px 0px 5px #003975;
     grid-column-start: 2;
     grid-column-end: 3;

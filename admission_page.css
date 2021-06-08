@@ -1,0 +1,74 @@
+.headadms
+{
+    text-align: center;
+    color: #003975;
+    text-transform: uppercase !important;
+    font-size: 2rem;
+    line-height: 1.2;   
+}
+.divaddsec
+{
+    border: 2px solid black;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.divaddsec > p
+{
+   text-align: justify;
+   list-style: 1.2;
+   text-transform: capitalize;
+   font-size: 18px;
+}
+.fp1
+{
+    padding-right: 30px;
+    padding-left: 30px;
+    line-height: 1.6;
+}
+.fp4
+{
+    padding-right: 30px;
+    padding-left: 30px;
+    color: #003865;
+    font-family: "Raleway";
+    font-size: 22px;
+    font-weight: 900;
+}
+.tableap
+{
+    border-collapse: collapse;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+}
+.tbtrth
+{
+   padding: 12px;
+   text-align: center;
+   font-size: 26px;
+   background-color: #003975;
+   color:white;
+}
+.tbtrtdr1
+{
+    padding: 20px;
+   font-size: 18px;
+   text-align: center;
+   background-color: beige;
+}
+.tbtrthb
+{
+   width: 300px;
+}
+.tbtrtha
+{
+    width: 220px;
+}
+
+.tbtrtdr2
+{
+    padding: 12px;
+   font-size: 18px;
+   text-align: center;
+   background-color: rgb(255, 233, 206);
+}
