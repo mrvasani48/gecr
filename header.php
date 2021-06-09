@@ -58,11 +58,11 @@
                     <button class="dropbtn">Facilitie</button>
                     <div class="dropdown-content">
                     <a href="hostel.php">Hostel</a>
-                    <a href="#">library</a>
-                    <a href="#">sports</a>
-                    <a href="#">student section</a>
-                    <a href="#">Medical Facilitie</a>   
-                    <a href="#">TRANSPORTATION</a>
+                    <a href="library.php">library</a>
+                    <a href="cf.php">Central Facilities</a>
+                    <a href="https://sites.google.com/a/gtu.edu.in/student-e--corner-gecr/home">student section</a>
+                    <a href="mf.php">Medical Facilitie</a>   
+                    <a href="trasportation.php">Transportation</a>
                     </div>
                 </div> 
                 <a href="#" class="a2nav" target="_blank">Life @ GECR</a>
