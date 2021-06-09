@@ -15,10 +15,10 @@
 <body>
     <header>
         <div class="fnavbar">
-            <a href="home_page.html" class="a1nav active" id="">Home</a>
-            <a href="virtual_tour.html" class="a1nav" target="_blank">Virtual Tour</a>
-            <a href="news_latter.html" class="a1nav" target="_blank">News Latter</a>
-            <a href="contact_us.html" class="a1nav" target="_blank">Contact Us</a>
+            <a href="home_page.php" class="a1nav active" id="">Home</a>
+            <a href="virtual_tour.php" class="a1nav" target="_blank">Virtual Tour</a>
+            <a href="news_latter.php" class="a1nav" target="_blank">News Latter</a>
+            <a href="contact_us.php" class="a1nav" target="_blank">Contact Us</a>
             <a href="https://www.facebook.com/GecRajkot2004/?ref=nf&hc_ref=ARRUV_Jhl3MUDpqhKn_SD4C82_3mujnnuGIeGLxUhxlIOrTADTpysPjuKt2grDjM-v8&__tn__=%3C-R"
                 class="" target="_blank"><img src="img/facebook.png" height="15px" width="15px"></a>
             <a href="https://www.instagram.com/alumni_gecr/?hl=en" class="" target="_blank"><img src="img/instagram.png"
@@ -38,17 +38,17 @@
                 <div class="dropdown">
                     <button class="dropbtn">Abouts Us</button>
                     <div class="dropdown-content">
-                    <a href="abouts_us.html">vission</a>
-                    <a href="abouts_us.html">mission</a>
-                    <a href="news_latter.html">newslatter</a>
+                    <a href="abouts_us.php">Vission</a>
+                    <a href="abouts_us.php">Mission</a>
+                    <a href="news_latter.php">Newslatter</a>
 
                     </div>
                 </div>
                 <div class="dropdown">
                     <button class="dropbtn">Acadamic</button>
                     <div class="dropdown-content">
-                    <a href="admission_page.html">Admission</a>
-                    <a href="departments.html">departments</a>
+                    <a href="admission_page.php">Admission</a>
+                    <a href="departments.php">departments</a>
                     <a href="labs.php">Labs</a>
                     <a href="workshop.php">workshop</a>
                     </div>
