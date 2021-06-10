@@ -1,0 +1,64 @@
+.newslattwemain
+{
+    display: grid;
+    grid-template-columns: 20% 80%;
+    margin: 30px;
+}
+.yearhover:hover
+{
+background-color: #005091;
+color: white;
+}
+.yearhover
+{   
+    font-size: 22px; 
+    text-align: center;
+    color: #005091;
+}
+.decnewdiv1
+{
+    text-align: left;
+    color: #005091;
+    padding-left: 20px;
+}
+
+.even
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    grid-column-gap: 40px;
+    margin-bottom: 40px;
+}
+
+.event1ma
+{
+   grid-column-start: 1;
+   grid-column-end: 2;
+   box-shadow: 0px 0px 10px #b4d4ee;
+
+}
+.imgeven1
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+.txteven1
+{
+    font-family: Montserrat;
+    font-weight: 550;
+    color: #003865;
+    font-size: 20px;
+    text-align: center!important;
+    word-wrap: break-word;
+    padding:0px 20px 0px 20px;
+    text-decoration: none;
+}
+
+.event2ma
+{
+   grid-column-start: 2;
+   grid-column-end: 3;
+   box-shadow: 0px 0px 10px #b4d4ee;
+}
