@@ -65,10 +65,34 @@
                     <a href="trasportation.php">Transportation</a>
                     </div>
                 </div> 
-                <a href="#" class="a2nav" target="_blank">Life @ GECR</a>
-                <a href="#" class="a2nav" target="_blank">Placement</a>
-                <a href="#" class="a2nav" target="_blank">People</a>
-                <a href="#" class="a2nav" target="_blank">Other</a>
+                <div class="dropdown">
+                    <button class="dropbtn">Life @ GECR</button>
+                    <div class="dropdown-content">
+                    <a href="event.php">Events</a>
+                    <a href="sc.php">Student Chapters</a>
+                    <a href="ncc.php">Ncc</a>
+                    <a href="we.php">Woman Empowerment</a>
+                    </div>
+                </div>
+                <div class="dropdown">
+                    <button class="dropbtn">PLacement</button>
+                    <div class="dropdown-content">
+                    <a href="event.php">Placement Team</a>
+                    <a href="sc.php">Placement Partners</a>
+                    <a href="ncc.php">Statistics</a>
+                    <a href="we.php">Placement Portal</a>
+                    </div>
+                </div>
+                <div class="dropdown">
+                    <button class="dropbtn">People</button>
+                    <div class="dropdown-content">
+                    <a href="http://www.gecrj.cteguj.in/faculty/">Faculty </a>
+                    <a href="http://www.gecrj.cteguj.in/staff/">Other Staff</a>
+                    <a href="http://alumnigecr.com/">Alumini</a>
+                    </div>
+                </div>
+                <a href="#" class="a2nav" target="_blank">other</a>
+            
             </div>
         </div>
     </header>

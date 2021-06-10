@@ -1,0 +1,56 @@
+.scmain
+{
+    padding: 40px;
+}
+.ieihead
+{
+    color: #003795;
+}
+.scmain >ul > li
+{
+    text-align: justify;
+    line-height: 1.6;
+    font-size: 18px;   
+}
+.ihead
+{
+    color: #003975;
+    font-size: 20px; 
+}
+.stattable
+{
+    border-collapse: collapse;
+}
+.td1
+{
+    width: 20%;
+    padding: 12px;
+    background-color: #003975;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.td2
+{
+    width: 60%;
+    padding: 12px;
+    background-color: #003975;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.td3
+{
+    width: 20%;
+    padding: 12px;
+    background-color: #003975;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+.datath
+{
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+}

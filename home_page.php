@@ -93,8 +93,8 @@
                     <img class="ev1img"
                         src="http://alumnigecr.com/images/event_list/event_image/event_list_img_9d0cf0.jpg"
                         height="120px" width="120px" alt="">
-                    <a class="evv1anc" target="_blank" href="http://alumnigecr.com/event-detail/10/">Alumni Association
-                        Group (AAG) of GEC -Rajkot had launched the Alumni Android App.</a>
+                    <a class="evv1anc" target="_blank" href="http://alumnigecr.com/event-detail/10/">
+                    Alumni Associatio Group (AAG) of GEC -Rajkot had launched the Alumni Android App.</a>
                 </div>
                 <div class="event2">
                     <img class="ev1img"
