@@ -73,9 +73,9 @@
             <marquee behavior="scroll" direction="up" scrollamount="7" onmouseover="this.stop()"
                 onmouseout="this.start()">
                 <p id="lnewspara">
-                    <a href="#" class="news1"> Lorem ipsum dolor sit amet consectetur adipisicing elit.</a><br><br>
-                    <a href="#" class="news2"> Quod blanditiis explicabo quam quae provident.</a><br><br>
-                    <a href="#" class="news3"> assumenda modi aperiam dolorum ea fugiat.</a>
+                    <a href="http://www.gecrj.cteguj.in/uploads/8896/Guidelines_for_online_reporting_(1st_sem_BE_3rd_sem_Diploma_to_Degree).pdf" class="news1">Guidelines for online reporting (B.E.1st sem & D2D 3rd Sem) </a><br><br>
+                    <a href="https://sites.google.com/gecrajkot.ac.in/ideathon-2020/home?authuser=6" class="news2">  Registration of IDEATHON-2021    </a><br><br>
+                    <a href="https://docs.google.com/forms/d/e/1FAIpQLScqLCtC64gSeoBEMyAIqpWNIHu9K_Dj3mH9KtGqQlIg3SOysQ/closedform" class="news3"> GECR Hostel Admission Form .</a>
                 </p>
             </marquee>
         </div>
@@ -119,14 +119,12 @@
             </div>
         </div>
 
-
-
         <div class="placement">
             <h1 id="placehead">Placement Update</h1>
             <div class="mplacetext">
-                <a href="#" class="placetext">28 students received placement offers from Bacancy Technology.</a><br><br>
-                <a href="#" class="placetext">28 students received placement offers from Bacancy Technology.</a><br><br>
-                <a href="#" class="placetext">28 students received placement offers from Bacancy Technology.</a>
+                <a href="http://www.gecrj.cteguj.in/uploads/8896/GECR_Placement_2021.pdf" class="placetext">106 student received placement offers from different different company in 2021</a><br><br>
+                <a href="http://www.gecrj.cteguj.in/uploads/8896/GECR_Placement_2020.pdf" class="placetext">160 student received placement offers from different different company  in 2020</a><br><br>
+                <a href="http://www.gecrj.cteguj.in/uploads/8896/GECR_Placement_2019.pdf" class="placetext">154 student received placement offers from different different company  in 2019</a>
             </div>
         </div>
     </div>

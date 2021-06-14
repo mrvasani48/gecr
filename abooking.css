@@ -1,0 +1,69 @@
+.abookmain
+{
+    border: 2px solid #003975;
+    margin: 20px 400px 20px 400px ;
+    text-transform: capitalize;
+    padding: 20px;
+    background-color: #003975;
+    color: white;
+}
+ h1
+{
+    color:  #003975;
+    text-align: center;
+}
+#rf,.fr,#fname,#email,#toe,#mnumber
+{
+    width:300px;
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 5px;
+    background-color: white;
+}
+label
+{
+    font-size: 20px;
+}
+#purpose
+{
+   margin-top: 20px;
+   margin-left: 140px;
+}
+#rf
+{
+    width:315px;margin-left: 27px;}
+#fname
+{
+    margin-left: 17px;
+}
+#email
+{
+    margin-left: 55px;
+}
+#mnumber
+{
+    margin-left: 1px;
+}
+#toe
+{
+    margin-left: 5px;
+    width:315px;
+}
+#sdate,#edate
+{
+    margin-left:40px;  
+    width:300px;
+    padding: 5px;
+    border-radius: 5px;
+    background-color: white; 
+}
+#edate
+{
+    margin-left:45px;  
+}
+#button
+{
+    padding: 5px;
+    font-size: 16px;
+    width: 150px;
+}

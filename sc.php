@@ -28,7 +28,7 @@
                  of Engineers (India) which is engaged 
                  successfully translating the objectives and ideals of IEI into practice.
             </li>
-            <li>  IEI Student's Chapter, Vishwakarma Government Engineering College has
+            <li>  IEI Student's Chapter,Government Engineering College Rajkot has
                   successfully organized several guest lectures, industrial visit, workshops
                   and seminars including the seminar on disaster management, workshop on
                   Concrete Technology, two day all India seminar on Fundamentals and Trends in  
@@ -112,10 +112,10 @@
                         </table><br><br><br>
 
                         <h1 class="ieihead">Google Devloper Club GECR</h1>
-                        <h2 class="ihead">details will be provided soon........</h2>
+                        <h2 class="ihead" style="color:black;">details will be provided soon........</h2>
 <br><br>
                         <h1 class="ieihead">Codechef GECR</h1>
-                        <h2 class="ihead">details will be provided soon........</h2>
+                        <h2 class="ihead"  style="color:black;">details will be provided soon........</h2>
   </div>
 <?php include_once 'footer.php';?>
 </body>

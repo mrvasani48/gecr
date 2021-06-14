@@ -77,10 +77,9 @@
                 <div class="dropdown">
                     <button class="dropbtn">PLacement</button>
                     <div class="dropdown-content">
-                    <a href="event.php">Placement Team</a>
-                    <a href="sc.php">Placement Partners</a>
-                    <a href="ncc.php">Statistics</a>
-                    <a href="we.php">Placement Portal</a>
+                    <a href="placement.php">Placement Team</a>
+                    <a href="placement.php">Placement Partners</a>
+                    <a href="http://www.gecrj.cteguj.in/tpo/">Placement Portal</a>
                     </div>
                 </div>
                 <div class="dropdown">

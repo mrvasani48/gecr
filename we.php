@@ -95,7 +95,7 @@
 
 
                         <h1 class="ieihead">Events at a glance</h1>
-                        <h2 class="ihead">details will be provided soon........</h2>
+                        <h2 class="ihead"  style="color:black;">details will be provided soon........</h2>
 
   </div>
 <?php include_once 'footer.php';?>

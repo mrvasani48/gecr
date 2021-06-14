@@ -27,9 +27,6 @@ https://www.embedmymap.com/
 Image changes in 5 second 
 https://www.w3schools.com/w3css/w3css_slideshow.asp
 
-whether app
-https://www.sourcecodeexamples.net/2020/09/javascript-project-weather-app.html?m=1
-https://codepen.io/mmuazam99/pen/oNzEgKp
 
 
 
