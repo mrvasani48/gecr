@@ -6,13 +6,13 @@
 }
 .maindivasc
 {
-    background-color: #003975;
+    
    
 }
 
 .acl
 {
-   color: white;
+   color: #003975;
    text-transform: capitalize; 
    padding-left: 30px;
    padding-right: 30px;
@@ -21,7 +21,7 @@
 
 .actext
 {
-    color: white;
+    color: #003975;
     font-size: 25px;
     padding: 30px;
     text-transform: capitalize;
@@ -30,7 +30,7 @@
 
 .acla
 {
-    color: white;
+    color: #003975;
     font-size: 25px;
     margin: 30px;
     text-transform: capitalize;

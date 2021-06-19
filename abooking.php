@@ -19,24 +19,24 @@
     <h1>Auditorium Booking System</h1>
     <div class="abookmain">
 
-        <form action=""  method="get" >
+        <form action="abooking.php"  method="post" >
             <label for="rf">request for :</label>
-            <select name="rf" id="rf" onchange="reqestfor()">
-                <option class="rf" value="">Auditorium</option>
+            <select name="rf" id="rf" >
+                <option required class="rf" value="">Auditorium</option>
 
             </select><br><br>
 
-            <label for="fname"  onchange="fname()">Faculty name:</label>
-            <input type="text" id="fname" placeholder="x y z" name="fname"><br><br>
+            <label for="fname" ">Faculty name:</label>
+            <input type="text" required id="fname" placeholder="x y z" name="fname"><br><br>
 
             <label for="email"  >Email Id :</label>
-            <input type="email" id="email" name="email" placeholder="abcd@gmail.com"><br><br>
+            <input type="email" required id="email" name="email" placeholder="abcd@gmail.com"><br><br>
 
             <label for="mnumber">Mobile Number:</label>
-            <input type="number" id="mnumber" onchange="numbervalidate()" name="mnumber" placeholder="9121351545"><br><br>
+            <input type="number" required id="mnumber" onchange="numbervalidate()" name="mnumber" placeholder="9121351545"><br><br>
 
             <label for="toe">Type Of Event :</label>
-            <select name="" id="toe">
+            <select name="" required id="toe">
                 <option value="">Seminar</option>
                 <option value="">Expert talk</option>
                 <option value="">Conference</option>
@@ -45,19 +45,19 @@
             </select><br><br>
 
             <label for="purpose">Purpose for Booking :</label><br>
-            <textarea name="" id="purpose" cols="36" rows="5">
+            <textarea name=""required id="purpose" cols="36" rows="5">
                 write the purpose of booking for auditorium
             </textarea><br><br>
 
             <label for="sdate">Start Date :</label>
-            <input type="date" id="sdate" name="sdate" ><br>
+            <input type="date" required id="sdate" name="sdate" ><br>
             <br>
 
             <label for="edate">End Date :</label>
-            <input type="date" id="edate" name="sdate"><br>
+            <input type="date" required id="edate" name="sdate"><br>
             <br>
 
-            <input  type="submit"id="button" onclick="fname(),numbervalidate()" value="Submit">
+            <input  type="submit"id="button" onsubmit="main()" value="Submit">
 
         </form >
     </div>

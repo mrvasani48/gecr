@@ -16,9 +16,9 @@
     <?php include_once 'header.php'; ?>
     <br>
     <br>
-    <div class="maindivasc">
-        <h1 class="acl">abouts Government engineering college rajkot</h1>
-        <p class="actext">
+    <div class="maindivasc" style="background-color:white;">
+        <h1 class="acl" style="color:#003795;">abouts Government engineering college rajkot</h1>
+        <p class="actext" style="color:black;">
             GEC Rajkot was established by Government of Gujarat in the year 2004
             with a vision to provide quality technical education
             to bring out technically competent, socially responsible, environmentally
@@ -42,10 +42,10 @@
             purposeful actions to produce engineers who are life-long learners and contributors for the progress of
             Gujarat and India.
             <br><br>
-            <b>VISION</b><br><br>
+            <b style="color:#003795;">VISION</b><br><br>
             To bring out technically competent and socially responsible engineers.
             <br><br>
-            <b>MISSION</b><br><br>
+            <b style="color:#003795;">MISSION</b><br><br>
 
 
             To upgrade and enhance learning resources for delivering quality technical education.<br>
@@ -60,7 +60,7 @@
             To take cognizance of social, ethical and environmental issues.<br>
 
         </p><br>
-         <a class="acla" href="news_latter.html" target="_blank"> GECR NEWS LETTER</a><br><br>
+         <a class="acla" href="news_latter.php" target="_blank" style="color:#003795;"> GECR NEWS LETTER</a><br><br>
     </div>
 <br><br>
     

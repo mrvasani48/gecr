@@ -1,3 +1,4 @@
+/*
 function reqestfor()
 {
     var refor = document.getElementById("rf").value;
@@ -46,4 +47,10 @@ function numbervalidate()
         return false;
     }
      
+}
+*/
+
+function main()
+{
+    window.alert("Auditorium its booked \n We  Will  contact To You very  soon... ");
 }
